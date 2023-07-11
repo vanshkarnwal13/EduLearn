@@ -6,15 +6,15 @@ on one single platform, and it also includes a help module where anyone who is l
 
 ## UI-Screenshots
 
-![home](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/home.PNG?raw=true)
-![about](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/about.png?raw=true)
-![dashboard](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/dashboard.PNG?raw=true)
-![course-page](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/course-page.png?raw=true)
-![help](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/help.PNG?raw=true)
-![signin](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/signin.PNG?raw=true)
-![signup](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/signup.PNG?raw=true)
-![update-profile](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/update-profile.png?raw=true)
-![forgot-password](https://github.com/parthsharma1410/EduLearn/blob/main/ui-screenshots/forgot-password.png?raw=true)
+![home](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/home.PNG?raw=true)
+![about](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/about.png?raw=true)
+![dashboard](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/dashboard.PNG?raw=true)
+![course-page](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/course-page.png?raw=true)
+![help](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/help.PNG?raw=true)
+![signin](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/signin.PNG?raw=true)
+![signup](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/signup.PNG?raw=true)
+![update-profile](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/update-profile.png?raw=true)
+![forgot-password](https://github.com/vanshkarnwal13/EduLearn/blob/main/ui-screenshots/forgot-password.png?raw=true)
 
 ## Getting Started with Create React App
 
