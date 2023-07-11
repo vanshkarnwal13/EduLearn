@@ -12,7 +12,7 @@ on one single platform, and it also includes a help module where anyone who is l
 ![course-page](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/course-page.png?raw=true)
 ![help](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/help.png?raw=true)
 ![signin](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/signin.PNG?raw=true)
-![signup](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/signup.png?raw=true)
+![signup](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/signup.PNG?raw=true)
 ![update-profile](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/update-profile.png?raw=true)
 ![forgot-password](https://github.com/vanshkarnwal13/EduLearn/blob/main/screenshots/forgot-password.png?raw=true)
 
