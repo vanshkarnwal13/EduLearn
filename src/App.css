@@ -1,0 +1,439 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.navbarcss {
+  height: 20vh;
+  background-color: white;
+}
+
+.navbarcss:active {
+  color: rgb(108, 42, 139);
+}
+
+.brand {
+  padding-right: 30%;
+  font-family: "Pacifico", cursive;
+  color: rgb(108, 42, 139);
+  font-size: 2rem;
+}
+
+.brand a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.brand a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnlogin {
+  border-radius: 5px;
+  border-style: none;
+  width: 30%;
+  height: 30%;
+  color: white;
+  background-color: rgb(108, 42, 139);
+  margin-left: 40%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.btnlogin a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnlogin a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btngetstarted {
+  border-radius: 5px;
+  border-style: none;
+  width: 23.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(108, 42, 139);
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-bottom: 20%;
+}
+
+.btngetstarted a {
+  padding: 10%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btngetstarted a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.heading {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  padding-top: 20%;
+  padding-bottom: 5%;
+  font-weight: bold;
+}
+
+.heading2 {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+.text {
+  color: black;
+}
+
+p {
+  padding-bottom: 10%;
+}
+
+.uni {
+  padding: 0px;
+}
+
+.btnsubmit {
+  border-radius: 5px;
+  border-style: none;
+  width: 23.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(108, 42, 139);
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.btndelete {
+  border-radius: 5px;
+  border-style: none;
+  width: 10.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(241, 142, 142);
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-left: 2%;
+}
+
+.btnsubmit2 {
+  border-radius: 5px;
+  border-style: none;
+  width: 9rem;
+  height: 2.3rem;
+  margin-right: 2%;
+  margin-left: 73%;
+  color: white;
+  background-color: rgb(108, 42, 139);
+}
+
+.btnsubmit a {
+  padding: 10%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnsubmit a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnsubmit2 a {
+  padding: 10%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnsubmit2 a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.flexbox {
+  display: flex;
+}
+
+img {
+  padding-left: 20%;
+  height: 70%;
+}
+
+.imgcolumn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textcolumn {
+  flex-grow: 2;
+}
+
+.imgclock {
+  padding-top: 20%;
+  padding-left: 70%;
+}
+
+.card-img {
+  padding-left: 0%;
+}
+
+.grey {
+  padding: 2%;
+  background-color: rgb(248, 248, 248);
+}
+
+.unflex {
+  display: flex;
+  flex-direction: column;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+}
+
+.card {
+  margin: 2%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20%;
+  height: 90%;
+  color: black;
+}
+
+.card:hover {
+  text-decoration: none;
+  background-color: #f5f5f5;
+  transition: 0.5s;
+  color: black;
+}
+
+.card-text-2 {
+  margin-right: 50%;
+}
+
+.card-text-3 {
+  margin-right: 10%;
+  padding: 0px;
+}
+
+.btnsearch {
+  border-radius: 5px;
+  border-style: none;
+  border-color: rgb(108, 42, 139);
+  width: 9rem;
+  border-style: solid;
+  height: 2.3rem;
+  color: rgb(108, 42, 139);
+  background-color: white;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.btnlogout {
+  border-radius: 5px;
+  border-style: none;
+  border-color: rgb(108, 42, 139);
+  width: 11rem;
+  border-style: solid;
+  height: 3rem;
+  color: rgb(108, 42, 139);
+  background-color: white;
+}
+
+.aboutimg {
+  width: 110%;
+  height: 40%;
+}
+
+.aboutimg2 {
+  padding-right: 20%;
+  width: 110%;
+  height: 40%;
+}
+
+@media screen and (max-width: 800px) {
+  .flexbox {
+    display: block;
+  }
+  .img {
+    padding-left: 18%;
+    height: 29%;
+    width: 128%;
+  }
+}
+
+.navbar-nav {
+  width: 100%;
+}
+
+@media (min-width: 568px) {
+  .end {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  #post {
+    width: 100%;
+  }
+}
+
+#clicked {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  text-align: center;
+  width: 100%;
+  background-color: #ecb21f;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 13px;
+}
+
+#profile {
+  background-color: unset;
+}
+
+#post {
+  margin: 10px;
+  padding: 6px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center;
+  background-color: #ecb21f;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 13px;
+  width: 50%;
+}
+
+/* body {
+  background-color: black;
+} */
+
+#nav-items li a,
+#profile {
+  text-decoration: none;
+  color: rgb(224, 219, 219);
+  background-color: black;
+}
+
+.comments {
+  margin-top: 5%;
+  margin-left: 20px;
+}
+
+.darker {
+  border: 1px solid #ecb21f;
+  background-color: black;
+  float: right;
+  border-radius: 5px;
+  padding-left: 40px;
+  padding-right: 30px;
+  padding-top: 10px;
+}
+
+.comment {
+  border: 1px solid rgba(16, 46, 46, 1);
+  background-color: rgba(16, 46, 46, 0.973);
+  float: left;
+  border-radius: 5px;
+  padding-left: 40px;
+  padding-right: 30px;
+  padding-top: 10px;
+}
+
+.comment h4,
+.comment span,
+.darker h4,
+.darker span {
+  display: inline;
+}
+
+/* .comment p,
+.comment span,
+.darker p,
+.darker span {
+  color: rgb(184, 183, 183);
+} */
+
+/* label {
+  color: rgb(212, 208, 208);
+} */
+
+#align-form {
+  margin-top: 20px;
+}
+
+.form-group p a {
+  color: white;
+}
+
+#checkbx {
+  background-color: black;
+}
+
+#darker img {
+  margin-right: 15px;
+  position: static;
+}
+
+/* .form-group input,
+.form-group textarea {
+  background-color: black;
+  border: 1px solid rgba(16, 46, 46, 1);
+  border-radius: 12px;
+}
+
+form {
+  border: 1px solid rgba(16, 46, 46, 1);
+  background-color: rgba(16, 46, 46, 0.973);
+  border-radius: 5px;
+  padding: 20px;
+} */
+
+.comment {
+  border-style: none;
+  background-color: rgb(248, 248, 248);
+  width: 100%;
+}
+
+#reply-here {
+  background-color: white;
+  width: 100%;
+}
+
+.replytext {
+  padding: 2%;
+}
